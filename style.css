@@ -6,7 +6,7 @@
                         }
                         
                         body {
-                            background:#fff;
+                            background:#ff36af;
                             font-family: 'lato', monospace;
                             letter-spacing: 1px;
                             line-height: 30px;
@@ -139,14 +139,14 @@
                                  height: auto-fit;
                             }
                             .box {
-                                width: auto;
+                                width: 300px;
                                 height: auto;
                             }
                             .btn {
                                 font-weight: 50px;
                             }
                             img {
-                                width: 60%;
+                                width: 70%;
                                 height: 60%;
                             }
                         }
