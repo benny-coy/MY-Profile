@@ -136,10 +136,11 @@
                             .project-section,
                             .container {
                                 padding: auto;
+                                 height: auto-fit;
                             }
                             .box {
-                                width: 65%;
-                                height: 65%;
+                                width: auto;
+                                height: auto;
                             }
                             .btn {
                                 font-weight: 50px;
